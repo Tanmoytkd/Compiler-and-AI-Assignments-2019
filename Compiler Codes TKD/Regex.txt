@@ -1,0 +1,7 @@
+Email address: ^([a-zA-Z0-9_\-\.]+)@([a-zA-Z0-9_\-\.]+)\.([a-zA-Z]{2,5})$
+Name: ^[a-zA-Z]+(([',. -][a-zA-Z ])?[a-zA-Z]*)*$
+Mobile Number: ^\+8801[3456789][0-9]{8}$
+Department: ^[ABCEFGIMOPS][RNMUAESHCPSTO][CTBSNPEOGYDAW]$
+Registration: ^[12][09][019][0-9]{7}$
+Session: ^[12][09][019][0-9]-[019][0-9]$
+Identifier: ^[_a-zA-Z][_a-zA-Z0-9]*$

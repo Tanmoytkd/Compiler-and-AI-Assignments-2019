@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1561896281 source:c:\users\user\desktop\piano tiles player\timer.cpp
+	"Timer.h"
+
+1561896224 c:\users\user\desktop\piano tiles player\timer.h
+	<windows.h>
+
+1561903308 source:c:\users\user\desktop\piano tiles player\main.cpp
+	<windows.h>
+	<iostream>
+	<vector>
+

@@ -1,0 +1,1 @@
+taskkill /f /im "Piano Tiles Player.exe"
